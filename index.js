@@ -1,7 +1,7 @@
 const LOG = require('signale');
 const uuidv4 = require('uuid/v4');
 
-
+// Comment
 module.exports = {
     info
 }
