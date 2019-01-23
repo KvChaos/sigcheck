@@ -1,6 +1,6 @@
 {
   "name": "kvsigcheck",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simply a test npm package intended for testing.",
   "main": "index.js",
   "dependencies": {
