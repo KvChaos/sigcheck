@@ -1,0 +1,18 @@
+{
+  "name": "npm-course-sandbox",
+  "version": "1.0.0",
+  "description": "Cory is working with the npm course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start":"node index.js"
+    },
+  "author": "CWN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "signale": "^1.3.0",
+    "voca": "^1.4.0"
+  }
+}
